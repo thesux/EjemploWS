@@ -33,6 +33,6 @@ angular.module('starter.controllers', [])
 
 
 
-  //console.log($scope.paises);AGREFAOIHFQEOIHQOIFHQOIDOIWQHDOIQHDOIWQFHWQODOQFOUQHEFOQHO
+  //console.log($scope.paises);
 
 })
